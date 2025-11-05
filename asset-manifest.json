@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/arnopsinghdurjoy_aronno_.github.io/static/css/main.5406094a.css",
+    "main.js": "/arnopsinghdurjoy_aronno_.github.io/static/js/main.7c53364c.js",
+    "static/media/profile.jpg": "/arnopsinghdurjoy_aronno_.github.io/static/media/profile.5bced5d8c78479754495.jpg",
+    "index.html": "/arnopsinghdurjoy_aronno_.github.io/index.html",
+    "main.5406094a.css.map": "/arnopsinghdurjoy_aronno_.github.io/static/css/main.5406094a.css.map",
+    "main.7c53364c.js.map": "/arnopsinghdurjoy_aronno_.github.io/static/js/main.7c53364c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5406094a.css",
+    "static/js/main.7c53364c.js"
+  ]
+}
